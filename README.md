@@ -33,5 +33,7 @@ These are just a few examples of the many simple electronics projects that you c
 
 Overall, electronics is a fascinating and constantly evolving field that offers many opportunities for those who are interested in technology, engineering, and innovation. In summary, electronics have become a necessity in our daily lives. They have made our lives easier, more convenient, and more productive, and we cannot imagine a world without them.
 
+Simple Electronics Projects: - https://takeoffprojects.com/simple-electronics-projects
+
 #simpleelectronics #electronicsprojects #electronicsfinalyearprojects #finalyearprojects #btechprojects #mtechprojects
 
